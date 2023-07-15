@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EjemploConsumoApi/1.0.0": {
+        "dependencies": {
+          "Dto": "1.0.0"
+        },
+        "runtime": {
+          "EjemploConsumoApi.dll": {}
+        }
+      },
+      "Dto/1.0.0": {
+        "runtime": {
+          "Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploConsumoApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
